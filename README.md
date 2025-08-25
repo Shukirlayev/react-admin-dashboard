@@ -1,7 +1,21 @@
 # React Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+A modern **Admin Dashboard** application built with React.  
+The project is developed using Material UI, React Router, Redux Toolkit, and interactive chart libraries.
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+## Features
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+- 🌙 Light and Dark modes
+- 📊 Interactive charts (Nivo, Chart.js)
+- 📅 FullCalendar integration
+- 📑 Data management with Data Grid
+- 📱 Fully responsive design
+
+## Installation & Setup
+
+```bash
+git clone https://github.com/Shukirlayev/react-admin-dashboard.git
+cd react-admin-dashboard
+npm install
+npm run dev
+```
